@@ -1,10 +1,7 @@
 import pandas as pd
 import argparse
-import datetime as dt
 import matplotlib.pyplot as plt
-import seaborn as sns
 from scripts.loader import upload_gsheet
-from scripts.data_prep import *
 
 from sklearn.cluster import KMeans
 from sklearn.preprocessing import MinMaxScaler
