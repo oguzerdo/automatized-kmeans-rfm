@@ -78,7 +78,7 @@ spreadSheetName = 'Clustering Data' # GSheet Name
 sheetName = 'Sayfa1'                # Table name
 ```
 
-If you have completed all these operations, you can run the script with the 'now' parameter.
+If you have completed all these operations, you can run the script with the '--upload' parameter.
 
 **Sample Usage:**
 
